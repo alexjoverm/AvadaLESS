@@ -1,6 +1,6 @@
 # Avada LESS		
 
-![Avada](https://github.com/alexjoverm/AvadaLESS/Avada.png)
+![Avada](https://github.com/alexjoverm/AvadaLESS/blob/master/Avada.png)
 
 Light framework made in LESS. It contains a set of utils, mixings and variables to start building your theme.
 
